@@ -6,4 +6,7 @@ pasta
 Beans
 Pizza
 
+coleslow
+soup
+
 Thank you
